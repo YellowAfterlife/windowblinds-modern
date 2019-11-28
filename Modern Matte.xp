@@ -422,7 +422,7 @@ LeftWidth=18
 RightWidth=18
 FrameCount=4
 [Taskbar.ButtonHorz]
-Image=Modern\taskbar_button.tga
+Image=Modern\taskbar_button_matte.tga
  Trans=1
  PerPixel=1
  TopHeight=5
@@ -462,7 +462,7 @@ PressedColour=1
 ContentTop=1
 ContentBottom=1
 [Taskbar.Progress]
-Image=Modern\taskbar_but_progress.tga
+Image=Modern\taskbar_but_progress_matte.tga
  Trans=1
  PerPixel=1
  
