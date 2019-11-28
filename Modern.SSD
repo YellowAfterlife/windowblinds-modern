@@ -1,4 +1,11 @@
 [SkinStyles]
 Win8Default=0
+Number=2
+Win10Default=0
+Win7Default=0
 [SkinStyle0]
 Skin=Modern.uis
+Name=Modern
+[SkinStyle1]
+Name=Modern Matte
+Skin=Modern Matte.sss
