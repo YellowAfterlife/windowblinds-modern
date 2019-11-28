@@ -583,7 +583,7 @@ Image=Modern\sp_all_programs_menu_item.tga
  DisabledColour=1
  
 [Taskbar.StartButton]
-Image=Modern\start_button.tga
+Image=Modern\start_button_win10.tga
  Trans=1
  PerPixel=1
  RightWidth=0
