@@ -290,7 +290,7 @@ BackgroundEffect=1
 
  
 [Taskbar.Vert]
-Image=Modern\taskbar_vert.bmp
+Image=modern\taskbar_vert_pastel.bmp
  RightWidth=9
  LeftWidth=9
  Tile=1
@@ -910,7 +910,7 @@ BottomHeight=10
 LeftWidth=10
 RightWidth=10
 [Taskbar.Horz]
-Image=modern\taskbar.bmp
+Image=modern\taskbar_pastel.bmp
  TopHeight=9
  BottomHeight=8
  LeftWidth=0
