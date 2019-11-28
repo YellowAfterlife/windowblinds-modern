@@ -1,0 +1,156 @@
+
+
+[ShellStyle.AdditionalImage10]
+Image=Modern\shell_music_icon.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage11]
+Image=Modern\additional_image_11.bmp
+
+[ShellStyle.AdditionalImage12]
+Image=Modern\shell_music_img.bmp
+
+[ShellStyle.AdditionalImage13]
+Image=Modern\shell_pictures_icon.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage14]
+Image=Modern\additional_image_14.bmp
+
+[ShellStyle.AdditionalImage15]
+Image=Modern\shell_pictures_img.bmp
+
+[ShellStyle.AdditionalImage16]
+Image=Modern\shell_search_icon.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage17]
+Image=Modern\additional_image_17.bmp
+
+[ShellStyle.AdditionalImage18]
+Image=Modern\shell_search_img.bmp
+
+[ShellStyle.AdditionalImage19]
+Image=Modern\shell_movies_icon.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage20]
+Image=Modern\additional_image_20.bmp
+
+[ShellStyle.AdditionalImage21]
+Image=Modern\shell_movies_img.bmp
+
+[ShellStyle.AdditionalImage22]
+Image=Modern\shell_c_panel_icon.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage25]
+Image=Modern\shell_no_modify_img.bmp
+
+[ShellStyle.AdditionalImage26]
+Image=Modern\shell_c_panel_img.bmp
+
+[ShellStyle.AdditionalImage100]
+Image=Modern\VS_but_up_1.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage101]
+Image=Modern\VS_but_up_focus_1.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage102]
+Image=Modern\VS_but_down_1.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage103]
+Image=Modern\VS_but_down_focus_1.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage104]
+Image=Modern\VS_but_up_2.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage105]
+Image=Modern\VS_but_up_focus_2.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage106]
+Image=Modern\VS_but_down_2.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage107]
+Image=Modern\VS_but_down_focus_2.tga
+PerPixel=1
+
+[ShellStyle.AdditionalImage110]
+Image=Modern\VS_title_bar_2.bmp
+
+[ShellStyle.AdditionalImage112]
+Image=Modern\VS_title_bar_1.bmp
+
+ 
+[PleaseWait.Animation0]
+HAlign=2
+ VAlign=2
+ XOffset=0
+ YOffset=14
+  LoopBackTo=
+FrameRate=12
+Image=modern\default_ani.nwa
+ 
+[ShellStyle.XML]
+
+[PleaseWait.BackgroundPerPixel]
+Image=Modern\please_wait_transparent.bmp
+ FontWeight=700
+ FontSize=5
+ FontName=Arial
+ PerPixel=0
+ TextRed=255
+ TextGreen=255
+ TextBlue=255
+ TextShift=-6000
+ TextShiftY=-6000
+ Trans=1
+PreMultipliedAlpha=0
+ 
+[ShutdownDialog.BackgroundPerPixel]
+[ShutdownDialog.Background]
+[ShutdownDialog.Buttons]
+[ShutdownDialog.Flag]
+[LogoffDialog.BackgroundPerPixel]
+[LogoffDialog.Flag]
+[LogoffDialog.Buttons]
+[LogoffDialog.Background]
+[Screen.BackgroundPerPixel]
+[Shellstyle.ControlPanel]
+[ShellStyle.ControlPanelHeader]
+[ShellStyle.ControlPanelIcon]
+[ShellStyle.ControlPanelTop]
+[ShellStyle.NoModifyPage]
+[shellstyle.LargeFilm]
+[ShellStyle.SmallFilm]
+[ShellStyle.FilmIcon]
+[ShellStyle.LargeMusic]
+[ShellStyle.PictureIcon]
+[ShellStyle.MusicIcon]
+[ShellStyle.SmallMusic]
+[ShellStyle.LargePicture]
+[ShellStyle.SmallPicture]
+[ShellStyle.LargeSearch]
+[ShellStyle.SearchIcon]
+[ShellStyle.smallSearch]
+[Shellstyle.back]
+[Shellstyle.pane]
+[ShellStyle.bar]
+[ShellStyle.DownArrow]
+[ShellStyle.UpArrow]
+[ShellStyle.DownArrowMouseOver]
+[ShellStyle.UpArrowMouseOver]
+[ShellStyle.SpecialPane]
+[ShellStyle.SpecialBar]
+[ShellStyle.SpecialDownArrow]
+[ShellStyle.SpecialDownArrowMouseOver]
+[ShellStyle.SpecialUpArrow]
+[ShellStyle.SpecialUpArrowMouseOver]
+[ShellStyle.Strings]

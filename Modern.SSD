@@ -1,6 +1,6 @@
 [SkinStyles]
 Win8Default=0
-Number=2
+Number=3
 Win10Default=0
 Win7Default=0
 [SkinStyle0]
@@ -9,3 +9,6 @@ Name=Modern
 [SkinStyle1]
 Name=Modern Matte
 Skin=Modern Matte.sss
+[SkinStyle2]
+Name=Modern Pastel
+Skin=Modern Pastel.sss

@@ -1,0 +1,979 @@
+
+
+[StartPanel.PlacesListSeparator]
+Image=Modern\sp_separator_right.tga
+RightWidth=20
+LeftWidth=20
+Trans=1
+Tile=0
+PerPixel=1
+Alpha=254
+TopHeight=0
+BottomHeight=0
+SimpleMode=0
+
+
+[StartPanel.ProgListSeparator]
+Image=Modern\sp_separator_left.tga
+LeftWidth=20
+RightWidth=20
+Tile=0
+TopHeight=0
+BottomHeight=0
+Trans=1
+PerPixel=1
+
+
+[TaskBar.SizeVert]
+Image=Modern\taskbar_vert_resizer.tga
+Tile=0
+LeftWidth=0
+RightWidth=0
+TopHeight=2
+BottomHeight=45
+Trans=1
+TileTop=1
+TileBottom=1
+TileRight=1
+TileLeft=1
+SmartSmallMargins=1
+PerPixel=1
+
+[TaskBar.TrayHorz]
+Image=Modern\tray_horiz.tga
+Trans=1
+PerPixel=1
+TopHeight=1
+BottomHeight=1
+RightWidth=13
+LeftWidth=1
+Tile=0
+ContentLeft=18
+ContentRight=15
+ContentTop=1
+ContentBottom=0
+SmartSmallMargins=0
+AnimTimerRate=0
+LoopBackDelay=0
+TextVertAlignNormal=1
+
+[TaskBar.TrayVert]
+Image=Modern\tray_vert.tga
+TopHeight=1
+BottomHeight=1
+LeftWidth=1
+RightWidth=1
+Tile=0
+ContentLeft=3
+ContentRight=3
+ContentTop=30
+ContentBottom=13
+Trans=1
+PerPixel=1
+BackgroundEffect=10
+
+
+[TaskBar.Clock]
+TextColour=1
+NormalColour=1
+TextFont=0
+
+
+
+
+[StartPanel]
+HideShadows=1
+StartMenuExpansion=70
+StartMenuExpansion2=
+BackgroundColour=5
+
+
+
+
+
+
+
+
+[TaskBar.SizeHorz]
+Image=Modern\taskbar_horiz_resizer.tga
+Trans=1
+Tile=0
+PerPixel=1
+LeftWidth=2
+RightWidth=2
+TopHeight=0
+BottomHeight=0
+
+[StartPanel.MorePrograms:L]
+Image=Modern\sp_all_progs_frame_2.tga
+FrameCount=3
+Trans=1
+PerPixel=1
+BottomHeight=0
+LeftWidth=20
+RightWidth=20
+ 
+ 
+[StartPanel.Menu]
+Image=Modern\sp_all_programs_menu.bmp
+ TopHeight=2
+ BottomHeight=2
+ LeftWidth=2
+ RightWidth=2
+ ContentLeft=1
+ ContentRight=1
+ ContentTop=1
+ ContentBottom=1
+ Tile=0
+Trans=0
+PerPixel=0
+PreMultipliedAlpha=0
+NormalColour=2
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+[Taskbar.RebarVert]
+Image=Modern\taskbar_gripper_vert.tga
+ LeftWidth=9
+ RightWidth=9
+ Trans=1
+ PerPixel=1
+ Alpha=255
+ TopHeight=0
+ BottomHeight=0
+ ContentLeft=0
+ ContentRight=0
+ ContentTop=0
+ ContentBottom=0
+ Tile=0
+ NormalColour=1
+NormalFont=0
+ 
+[Taskbar.RebarHorz]
+Image=Modern\taskbar_gripper.tga
+ TopHeight=9
+ BottomHeight=9
+ RightWidth=0
+ Trans=1
+ Tile=0
+ PerPixel=1
+ LeftWidth=0
+ ContentLeft=0
+ ContentRight=0
+ ContentTop=0
+ ContentBottom=0
+ Alpha=255
+ NormalColour=1
+NormalFont=0
+ 
+
+[StartPanel.UserPane]
+Image=Modern\sp_top.tga
+ TopHeight=0
+ BottomHeight=14
+ LeftWidth=270
+ RightWidth=121
+ ContentLeft=334
+ ContentRight=0
+ ContentTop=-40
+ ContentBottom=1
+ Tile=0
+ NormalColour=3
+ Trans=1
+ TextColour=1
+ TextFont=1
+ BackgroundEffect=10
+ PerPixel=1
+ PartWidth=450
+ PartHeight=1
+ TextVertShiftNormal=-1
+ TextHorzShiftNormal=2
+ HideUserPicture=0
+ TextHorzAlignNormal=1
+ TextVertAlignNormal=1
+ PartWidthVista=450
+ PartHeightVista=1
+FrameCount=2
+HideTopPane=1
+ 
+
+ 
+ 
+
+ 
+ 
+[StartPanel.MorePrograms]
+Image=Modern\sp_all_programs.tga
+ Trans=1
+ LeftWidth=6
+ RightWidth=3
+ TopHeight=0
+ BottomHeight=0
+ ContentLeft=7
+ ContentRight=2
+ ContentTop=1
+ ContentBottom=1
+ BackgroundEffect=1
+ PerPixel=1
+ PartWidth=280
+ PartHeight=30
+ PartWidthVista=284
+ PartHeightVista=30
+   NormalFont=4
+ FocusFont=4
+NormalColour=9
+FocusColour=9
+PressedColour=2
+DisabledColour=2
+FrameCount=2
+ 
+
+
+
+
+ 
+
+[Taskbar.ButtonHorzMask]
+Image=Modern\taskbar_button_mask.tga
+Trans=1
+PerPixel=1
+TopHeight=5
+BottomHeight=5
+LeftWidth=5
+RightWidth=5
+PreMultipliedAlpha=0
+
+ 
+
+
+ 
+ 
+
+[Taskbar.PreviewClose]
+Image=Modern\task_preview_close.tga
+Trans=1
+PerPixel=1
+TopHeight=0
+BottomHeight=0
+LeftWidth=0
+RightWidth=0
+Tile=0
+
+
+
+
+
+
+
+[StartPanel.MoreProgramsArrow]
+Image=Modern\sp_all_programs_arrow.tga
+ Trans=1
+ PerPixel=1
+ BottomHeight=0
+ TopHeight=0
+ LeftWidth=0
+ RightWidth=0
+ SimpleMode=3
+ Alpha=255
+ Tile=4
+ SmartSmallMargins=1
+ FrameCount=6
+ 
+BackgroundEffect=1
+ 
+
+ 
+[Taskbar.Vert]
+Image=Modern\taskbar_vert.bmp
+ RightWidth=9
+ LeftWidth=9
+ Tile=1
+ TopHeight=0
+ BottomHeight=15
+ Trans=1
+ PerPixel=0
+FrameCount=4
+PreMultipliedAlpha=0
+EdgesOnly=0
+
+
+ 
+ 
+
+ 
+
+[StartMenu.MoreProgramsMouseOver]
+Image=Modern\sp_all_programs_selection.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=4
+ BottomHeight=4
+ LeftWidth=4
+ RightWidth=4
+ ContentLeft=0
+
+
+ 
+ 
+ 
+[StartMenu.ButtonBackground]
+Image=Modern\sp_left_selection.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=5
+ BottomHeight=5
+ LeftWidth=5
+ RightWidth=5
+ FrameCount=3
+ 
+ 
+[StartPanel.ShutdownButtons2]
+[StartPanel.ShutdownArrow2]
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[StartPanel.ShutdownArrow]
+Image=Modern\sp_shut_down_button_right.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=6
+ BottomHeight=6
+ LeftWidth=5
+ RightWidth=6
+ GlyphImage=Modern\sp_shut_down_button_right_glyph.tga
+ GlyphTransMode=3
+ 
+[StartPanel.SearchMode]
+Image=Modern\sp_search_top.tga
+ Trans=1
+ PerPixel=1
+ LeftWidth=8
+ RightWidth=8
+ TopHeight=8
+ BottomHeight=1
+ ContentLeft=13
+ ContentRight=14
+ ContentTop=13
+ ContentBottom=36
+ 
+NormalColour=2
+FrameCount=2
+ 
+ 
+[StartPanel.ShutdownButtons]
+Image=Modern\sp_shut_down_button_left.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=6
+ BottomHeight=6
+ LeftWidth=6
+ RightWidth=4
+ NormalColour=1
+ PressedColour=1
+ FrameCount=3
+DisabledColour=1
+ 
+  
+ 
+ 
+ 
+ 
+[Taskbar.Horz:L]
+Image=Modern\taskbar_horiz_L1.tga
+Trans=1
+PerPixel=1
+Vert=1
+GlyphVert=1
+FrameCount=4
+LeftWidth=0
+RightWidth=0
+Tile=0
+EdgesOnly=0
+TopHeight=39
+AlignLayerMode=0
+NextLayerName=L
+BottomHeight=0
+[Taskbar.Vert:L]
+Image=Modern\taskbar_vert_l1.tga
+Trans=1
+PerPixel=1
+TopHeight=205
+BottomHeight=190
+LeftWidth=18
+RightWidth=18
+FrameCount=4
+[Taskbar.ButtonHorz]
+Image=Modern\taskbar_button_matte.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=5
+ BottomHeight=5
+ RightWidth=5
+ LeftWidth=24
+ ContentTop=1
+ ContentBottom=1
+ TextVertShiftDefault=-1
+ TextVertShiftActivated=-1
+ NormalColour=1
+  PressedColour=1
+  FocusColour=1
+  DefaultColour=1
+  FocusPressedColour=1
+GroupColour=1
+  
+ 
+[Taskbar.FlashingButton]
+Image=Modern\taskbar_but_flash.tga
+TopHeight=5
+BottomHeight=5
+LeftWidth=24
+RightWidth=5
+Trans=0
+PerPixel=0
+[Taskbar.PinnedApp]
+Image=Modern\taskbar_but_pinned.tga
+ Trans=1
+ PerPixel=1
+TopHeight=5
+BottomHeight=5
+LeftWidth=5
+RightWidth=5
+NormalColour=1
+PressedColour=1
+ContentTop=1
+ContentBottom=1
+[Taskbar.Progress]
+Image=Modern\taskbar_but_progress_matte.tga
+ Trans=1
+ PerPixel=1
+ 
+TopHeight=5
+BottomHeight=5
+LeftWidth=24
+RightWidth=5
+NormalColour=1
+PressedColour=1
+FocusColour=1
+DefaultColour=1
+FocusPressedColour=1
+FrameCount=1
+[Taskbar.QuickLaunch]
+Image=Modern\q_launch_but.tga
+ 
+TopHeight=6
+BottomHeight=6
+LeftWidth=6
+RightWidth=6
+NormalColour=1
+PressedColour=1
+FocusColour=1
+Trans=1
+PerPixel=1
+ 
+[Taskbar.ShowDesktopVert]
+Image=Modern\taskbar_but_desktop_vert.tga
+ Trans=1
+ PerPixel=1
+ BackgroundEffect=1
+ BottomHeight=2
+TopHeight=3
+LeftWidth=0
+RightWidth=0
+Vert=1
+GlyphVert=1
+ 
+[Taskbar.ShowDesktop]
+Image=Modern\taskbar_but_desktop.tga
+ Trans=1
+ PerPixel=1
+ BackgroundEffect=1
+LeftWidth=3
+RightWidth=2
+PreMultipliedAlpha=0
+ 
+[TaskBandGroup.Background]
+Image=Modern\taskbar_group_menu.bmp
+ 
+TopHeight=2
+BottomHeight=2
+LeftWidth=2
+RightWidth=2
+Trans=0
+PerPixel=0
+PreMultipliedAlpha=0
+[TaskBandGroup.Toolbar]
+Image=Modern\taskbar_group_item.bmp
+Trans=1
+PerPixel=0
+PreMultipliedAlpha=0
+TopHeight=4
+BottomHeight=3
+LeftWidth=6
+RightWidth=12
+FocusColour=1
+NormalColour=2
+PressedColour=1
+DisabledColour=1
+ 
+ 
+ 
+ 
+ 
+[StartPanel.BottomBar]
+Image=Modern\sp_bottom.tga
+ ContentLeft=2
+ ContentRight=2
+ ContentTop=1
+ ContentBottom=2
+ TopHeight=1
+ LeftWidth=1
+ RightWidth=1
+ BottomHeight=1
+ Trans=1
+ Tile=0
+ BackgroundEffect=1
+ PerPixel=1
+ PartWidth=397
+ PartHeight=34
+ PartWidthVista=397
+ PartHeightVista=34
+ SearchX=5
+ SearchY=5
+ NormalColour=1
+ SearchHeight=24
+ SearchRightPad=-5
+ FrameCount=2
+AnimTimerRate=0
+LoopBackDelay=0
+ 
+[StartPanel.MenuItem]
+Image=Modern\sp_all_programs_menu_item.tga
+ TopHeight=2
+ BottomHeight=2
+ LeftWidth=4
+ RightWidth=6
+ Tile=0
+ Trans=1
+ PerPixel=1
+ ContentLeft=1
+ ContentTop=1
+ ContentBottom=1
+ ContentRight=1
+ NormalColour=2
+ PressedColour=1
+ DisabledColour=1
+ 
+[Taskbar.StartButton]
+Image=Modern\start_button_win10.tga
+ Trans=1
+ PerPixel=1
+ RightWidth=0
+ LeftWidth=0
+ BottomHeight=0
+ TopHeight=0
+ OverlayAlways=0
+ VistaPositioning=1
+ 
+[StartMenu.ButtonBackground2:L]
+Image=Modern\sp_menu_item_right_l1.tga
+Trans=1
+PerPixel=1
+FrameCount=3
+TopHeight=3
+BottomHeight=3
+LeftWidth=21
+RightWidth=0
+[StartPanel.MenuItemNew]
+Image=Modern\more_progs_menu_new_item.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=4
+ BottomHeight=4
+ LeftWidth=4
+ RightWidth=4
+ NormalColour=2
+ PressedColour=6
+ DisabledColour=6
+ FrameCount=3
+ 
+[Taskbar.ButtonHorz:L]
+Image=Modern\taskbar_buttons_l1.tga
+Trans=1
+PerPixel=1
+TopHeight=5
+BottomHeight=5
+LeftWidth=17
+RightWidth=5
+  
+[Taskbar.ButtonVert:L]
+Image=Modern\taskbar_buttons_l1.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=5
+ BottomHeight=5
+ LeftWidth=17
+ RightWidth=5
+ 
+ 
+ 
+ 
+[StartPanel.ProgList]
+Image=Modern\sp_left.tga
+ ContentLeft=7
+ ContentRight=3
+ ContentTop=11
+ ContentBottom=1
+ LeftWidth=8
+ RightWidth=3
+ TopHeight=8
+ BottomHeight=1
+ Trans=1
+ BackgroundEffect=1
+ PerPixel=1
+ PartWidth=280
+ PartHeight=70
+ Tile=0
+ PartWidthVista=280
+ PartHeightVista=70
+ FocusColour=2
+ PressedColour=2
+ DisabledColour=2
+ ArrowColour=4
+ FrameCount=2
+ NormalColour=2
+ 
+[StartMenu.ButtonBackground2]
+Image=Modern\sp_right_selection.tga
+ Trans=0
+ PerPixel=0
+ TopHeight=5
+ BottomHeight=5
+ LeftWidth=5
+ RightWidth=5
+ FrameCount=3
+ 
+[StartPanel.AllProgramsLeft]
+Image=modern\sp_left.tga
+ ContentLeft=7
+ ContentRight=3
+ ContentTop=11
+ ContentBottom=1
+ LeftWidth=8
+ RightWidth=8
+ TopHeight=8
+ BottomHeight=1
+ Trans=1
+ BackgroundEffect=10
+ PerPixel=1
+ PartWidth=267
+ PartHeight=70
+ Tile=0
+ PartWidthVista=267
+ PartHeightVista=70
+ FocusColour=4
+ PressedColour=4
+ DisabledColour=4
+ ArrowColour=4
+ FrameCount=2
+ NormalColour=2
+ 
+[StartPanel.LogonButtons]
+[StartMenu.LogonBackground]
+[Taskbar.JumpList:L]
+Image=Modern\taskbar_jump_list_top_l1.tga
+Trans=1
+PerPixel=1
+LeftWidth=32
+TopHeight=70
+[Taskbar.PreviewBackground:L]
+Image=Modern\task_preview_pane_l1.tga
+Trans=0
+PerPixel=0
+LeftWidth=32
+TopHeight=105
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Taskbar.PreviewBackground]
+Image=Modern\task_preview_pane.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=12
+ BottomHeight=12
+ LeftWidth=12
+ RightWidth=12
+ ContentLeft=6
+ ContentRight=6
+ ContentTop=3
+ ContentBottom=30
+ Tile=0
+ 
+ NormalColour=1
+PreMultipliedAlpha=0
+ 
+ 
+ 
+ 
+ 
+[StartPanel.ExpandedRightSide]
+Image=Modern\sp_right.tga
+ ContentLeft=5
+ ContentRight=2
+ ContentTop=8
+ ContentBottom=0
+ BottomHeight=1
+ Tile=0
+ TopHeight=5
+ LeftWidth=1
+ RightWidth=5
+ Trans=1
+ BackgroundEffect=1
+ PerPixel=1
+ PartWidth=160
+ PartHeight=70
+ PartWidthVista=160
+ PartHeightVista=70
+ FrameCount=2
+ FocusColour=1
+ ArrowColour=6
+ NormalColour=1
+ 
+[StartPanel.ExpandedLeft]
+Image=Modern\sp_left.tga
+ ContentLeft=7
+ ContentRight=3
+ ContentTop=11
+ ContentBottom=1
+ LeftWidth=8
+ RightWidth=3
+ TopHeight=8
+ BottomHeight=1
+ Trans=1
+ BackgroundEffect=1
+ PerPixel=1
+ PartWidth=267
+ PartHeight=70
+ Tile=0
+ PartWidthVista=267
+ PartHeightVista=70
+ FocusColour=1
+ PressedColour=1
+ DisabledColour=0
+ ArrowColour=4
+ FrameCount=2
+ NormalColour=2
+ 
+[Taskbar.StartButton^Overlay]
+[Taskbar.Horz:L:L]
+Image=Modern\taskbar_horiz_L2.tga
+Trans=1
+PerPixel=1
+Vert=1
+GlyphVert=1
+BottomHeight=39
+NextLayerName=L
+RightWidth=15
+FrameCount=4
+[Taskbar.Horz:L:L:L]
+Image=Modern\taskbar_horiz_L3.tga
+Trans=1
+PerPixel=1
+Vert=1
+GlyphVert=1
+TopHeight=39
+RightWidth=15
+FrameCount=4
+[Taskbar.Horz:L:L:L:L]
+Image=Modern\taskbar_horiz_L4.tga
+Trans=1
+PerPixel=1
+Vert=0
+GlyphVert=0
+FrameCount=4
+BottomHeight=39
+TopHeight=0
+Tile=0
+EdgesOnly=0
+ 
+[StartPanel.BottomBarRight]
+[StartPanel.BottomBarSearchRight]
+[StartPanel.PlacesList]
+Image=Modern\sp_right.tga
+ ContentLeft=5
+ ContentRight=5
+ ContentTop=40
+ ContentBottom=0
+ BottomHeight=1
+ Tile=0
+ TopHeight=5
+ LeftWidth=1
+ RightWidth=5
+ Trans=1
+ BackgroundEffect=1
+ PerPixel=1
+ PartWidth=170
+ PartHeight=70
+ PartWidthVista=170
+ PartHeightVista=70
+ FrameCount=2
+ FocusColour=1
+ ArrowColour=6
+ NormalColour=1
+ 
+[StartPanel.BottomBarSearch]
+[StartPanel.SearchModeBottom]
+Image=modern\sp_search_bottom.tga
+ Trans=1
+ PerPixel=1
+ LeftWidth=1
+ RightWidth=1
+ TopHeight=0
+ BottomHeight=0
+ FrameCount=2
+ ContentBottom=0
+ ContentLeft=0
+ ContentRight=0
+ 
+ 
+[Taskbar.JumpListFrame]
+Image=Modern\Jump_list_frame.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=10
+ BottomHeight=10
+ LeftWidth=10
+ RightWidth=10
+ BackgroundEffect=1
+ 
+ 
+[Taskbar.JumpList]
+Image=Modern\jump_list_top.bmp
+ Trans=0
+ PerPixel=0
+ TopHeight=2
+ BottomHeight=2
+ LeftWidth=2
+ RightWidth=2
+PreMultipliedAlpha=0
+ 
+[Taskbar.JumpListBottom]
+Image=Modern\jump_list_bottom.bmp
+ Trans=0
+ PerPixel=0
+ TopHeight=2
+ BottomHeight=2
+ LeftWidth=10
+ RightWidth=10
+ 
+ 
+PreMultipliedAlpha=0
+[Taskbar.PreviewItem]
+Image=Modern\task_preview_item.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=7
+ BottomHeight=7
+ LeftWidth=7
+ RightWidth=7
+ 
+ 
+[StartMenu.UserFrame]
+Trans=1
+PerPixel=1
+PreMultipliedAlpha=0
+Image=Modern\sp_user_picture_frame.tga
+TopHeight=10
+BottomHeight=10
+LeftWidth=10
+RightWidth=10
+[Taskbar.Horz]
+Image=modern\taskbar.bmp
+ TopHeight=9
+ BottomHeight=8
+ LeftWidth=0
+ RightWidth=15
+ 
+ 
+Vert=1
+GlyphVert=1
+FrameCount=4
+BackgroundEffect=1
+Trans=0
+PerPixel=0
+PreMultipliedAlpha=0
+[Taskbar.QuickLaunchVert]
+Image=Modern\q_launch_but.tga
+ TopHeight=6
+ BottomHeight=6
+ LeftWidth=6
+ RightWidth=6
+ NormalColour=1
+ PressedColour=1
+ FocusColour=1
+ Trans=1
+ PerPixel=1
+ 
+[Taskbar.ButtonVert]
+Image=Modern\taskbar_button.tga
+ Trans=1
+ PerPixel=1
+ TopHeight=5
+ BottomHeight=5
+ RightWidth=5
+ LeftWidth=24
+ ContentTop=1
+ ContentBottom=1
+ TextVertShiftDefault=-1
+ TextVertShiftActivated=-1
+ NormalColour=1
+ PressedColour=1
+ FocusColour=1
+ DefaultColour=1
+ FocusPressedColour=1
+ GroupColour=1
+ 
+  
+ 
+ 
+ 
+[Taskbar.ButtonArrowVert]
+Image=Modern\tray_expander_ver.tga
+ Trans=1
+ PerPixel=1
+ MouseOver=1
+ FrameCount=6
+ Vert=1
+ GlyphVert=1
+ 
+[Taskbar.ButtonArrowVert7]
+ 
+ 
+[Taskbar.ButtonArrow]
+Image=modern\tray_expander.tga
+ Trans=1
+ PerPixel=1
+ 
+[Taskbar.ButtonArrow7]
